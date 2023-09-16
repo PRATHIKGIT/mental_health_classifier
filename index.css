@@ -27,7 +27,7 @@
 }
 .desktop1button-text {
   top: 25px;
-  left: 559px;
+  left: 700px;
   color: rgba(236, 116, 74, 1);
   height: auto;
   position: absolute;
@@ -76,7 +76,7 @@
 .desktop1button-primary-button-default-primarybutton {
   gap: 8.000000953674316px;
   top: 17px;
-  left: 1088px;
+  left: 1200px;
   width: 130px;
   height: 40px;
   display: flex;
@@ -141,8 +141,9 @@
 }
 .desktop1button-text013 {
   color: var(--dl-color-default-whitecolor);
+  width: 200px;
   height: auto;
-  font-size: 14px;
+  font-size: 18px;
   font-style: SemiBold;
   text-align: center;
   font-family: Poppins;
@@ -154,19 +155,19 @@
 .desktop1button-rectangle25 {
   top: 997.328369140625px;
   left: 181px;
-  width: 1069px;
+  width: 1100px;
   height: 405px;
   position: absolute;
   border-radius: 70px;
 }
 .desktop1button-text015 {
   top: 783.9381103515625px;
-  left: 452px;
+  left: 240px;
   color: rgba(0, 0, 0, 1);
-  width: 589px;
+  width: 1000px;
   height: auto;
   position: absolute;
-  font-size: 20px;
+  font-size: 32px;
   font-style: Regular;
   text-align: center;
   font-family: Inter;
@@ -180,22 +181,22 @@
 }
 .desktop1button-rectangle26 {
   top: 780px;
-  left: 188px;
+  left: 200px;
   width: 1065px;
   height: 3px;
   position: absolute;
 }
 .desktop1button-rectangle20 {
-  top: 949.9852294921875px;
-  left: 538px;
-  width: 342px;
+  top: 950px;
+  left: 530px;
+  width: 400px;
   height: 474px;
   position: absolute;
   border-radius: 70px;
 }
 .desktop1button-rectangle21 {
   top: 1002.9852294921875px;
-  left: 907px;
+  left: 950px;
   width: 342px;
   height: 394px;
   position: absolute;
@@ -217,7 +218,7 @@
 }
 .desktop1button-image12 {
   top: 1033px;
-  left: 1016px;
+  left: 1038px;
   width: 131px;
   height: 130px;
   position: absolute;
@@ -231,8 +232,8 @@
   border-radius: 112px;
 }
 .desktop1button-text021 {
-  top: 1484px;
-  left: 728px;
+  top: 1600px;
+  left: 740px;
   color: rgba(46, 106, 80, 1);
   width: 541px;
   height: auto;
@@ -268,12 +269,10 @@
   background-color: rgba(236, 116, 74, 1);
 }
 .desktop1button-text036 {
-  top: 2003px;
-  left: 861px;
-  color: rgba(0, 0, 0, 1);
+  color: var(--dl-color-default-whitecolor);
+  width: 200px;
   height: auto;
-  position: absolute;
-  font-size: 14px;
+  font-size: 18px;
   font-style: SemiBold;
   text-align: center;
   font-family: Poppins;
@@ -284,19 +283,19 @@
 }
 .desktop1button-rectangle22 {
   top: 2250px;
-  left: 188px;
+  left: 200px;
   width: 1065px;
   height: 3px;
   position: absolute;
 }
 .desktop1button-text038 {
   top: 2283px;
-  left: 354px;
+  left: 345px;
   color: rgba(0, 0, 0, 1);
   width: 732px;
   height: auto;
   position: absolute;
-  font-size: 14px;
+  font-size: 24px;
   font-style: SemiBold;
   text-align: center;
   font-family: Poppins;
@@ -323,8 +322,8 @@
 .desktop1button-primary-button-default-primarybutton3 {
   gap: 8.000000953674316px;
   top: 2979px;
-  left: 368px;
-  width: 165px;
+  left: 335px;
+  width: 200px;
   height: 40px;
   display: flex;
   padding: 12px 20px;
@@ -338,8 +337,8 @@
 .desktop1button-primary-button-default-primarybutton4 {
   gap: 8.000000953674316px;
   top: 2979px;
-  left: 893px;
-  width: 165px;
+  left: 845px;
+  width: 280px;
   height: 40px;
   display: flex;
   padding: 12px 20px;
@@ -351,13 +350,10 @@
   background-color: rgba(236, 116, 74, 1);
 }
 .desktop1button-text045 {
-  top: 2987px;
-  left: 936px;
-  color: rgba(255, 255, 255, 1);
-  width: 79px;
+  color: var(--dl-color-default-whitecolor);
+  width: 200px;
   height: auto;
-  position: absolute;
-  font-size: 14px;
+  font-size: 18px;
   font-style: SemiBold;
   text-align: center;
   font-family: Poppins;
@@ -367,12 +363,10 @@
   text-decoration: none;
 }
 .desktop1button-text047 {
-  top: 2987px;
-  left: 407px;
-  color: rgba(255, 255, 255, 1);
+  color: var(--dl-color-default-whitecolor);
+  width: 200px;
   height: auto;
-  position: absolute;
-  font-size: 14px;
+  font-size: 18px;
   font-style: SemiBold;
   text-align: center;
   font-family: Poppins;
@@ -383,8 +377,8 @@
 }
 .desktop1button-primary-button-default-primarybutton5 {
   gap: 8.000000953674316px;
-  top: 3627px;
-  left: 639px;
+  top: 3575px;
+  left: 640px;
   width: 165px;
   height: 40px;
   display: flex;
@@ -397,12 +391,10 @@
   background-color: rgba(236, 116, 74, 1);
 }
 .desktop1button-text049 {
-  top: 3635px;
-  left: 682px;
-  color: rgba(255, 255, 255, 1);
+  color: var(--dl-color-default-whitecolor);
+  width: 200px;
   height: auto;
-  position: absolute;
-  font-size: 14px;
+  font-size: 18px;
   font-style: SemiBold;
   text-align: center;
   font-family: Poppins;
@@ -413,11 +405,11 @@
 }
 .desktop1button-image20 {
   top: 3737px;
-  left: 188px;
-  width: 529px;
+  left: 300px;
+  width: 304px;
   height: 304px;
   position: absolute;
-  border-radius: 58px;
+  border-radius: 10px;
 }
 .desktop1button-primary-button-default-primarybutton6 {
   gap: 8.000000953674316px;
@@ -435,12 +427,10 @@
   background-color: rgba(236, 116, 74, 1);
 }
 .desktop1button-text051 {
-  top: 4267px;
-  left: 413px;
-  color: rgba(255, 255, 255, 1);
+  color: var(--dl-color-default-whitecolor);
+  width: 200px;
   height: auto;
-  position: absolute;
-  font-size: 14px;
+  font-size: 18px;
   font-style: SemiBold;
   text-align: center;
   font-family: Poppins;
@@ -452,8 +442,8 @@
 .desktop1button-primary-button-default-primarybutton7 {
   gap: 8.000000953674316px;
   top: 4259px;
-  left: 908px;
-  width: 165px;
+  left: 890.5px;
+  width: 200px;
   height: 40px;
   display: flex;
   padding: 12px 20px;
@@ -465,12 +455,10 @@
   background-color: rgba(236, 116, 74, 1);
 }
 .desktop1button-text053 {
-  top: 4267px;
-  left: 946px;
-  color: rgba(255, 255, 255, 1);
+  color: var(--dl-color-default-whitecolor);
+  width: 200px;
   height: auto;
-  position: absolute;
-  font-size: 14px;
+  font-size: 18px;
   font-style: SemiBold;
   text-align: center;
   font-family: Poppins;
@@ -481,23 +469,23 @@
 }
 .desktop1button-image22 {
   top: 3075px;
-  left: 510px;
-  width: 422px;
+  left: 520px;
+  width: 420px;
   height: 316px;
   position: absolute;
-  border-radius: 58px;
+  border-radius: 10px;
 }
 .desktop1button-image23 {
   top: 3737px;
-  left: 728px;
-  width: 529px;
+  left: 850px;
+  width: 304px;
   height: 304px;
   position: absolute;
-  border-radius: 58px;
+  border-radius: 10px;
 }
 .desktop1button-rectangle23 {
   top: 4369px;
-  left: 192px;
+  left: 200px;
   width: 1065px;
   height: 5px;
   position: absolute;
@@ -505,7 +493,7 @@
 .desktop1button-rectangle24 {
   top: 4470px;
   left: 0px;
-  width: 1440px;
+  width: 1920px;
   height: 274px;
   position: absolute;
 }
@@ -649,7 +637,7 @@
   text-align: center;
   font-family: Poppins;
   font-weight: 400;
-  line-height: 50px;
+  line-height: normal;
   font-stretch: normal;
   text-decoration: none;
 }
@@ -670,7 +658,7 @@
   text-decoration: none;
 }
 .desktop1button-text089 {
-  top: 4128px;
+  top: 4136px;
   left: 185px;
   color: rgba(0, 0, 0, 1);
   width: 522px;
@@ -681,7 +669,7 @@
   text-align: center;
   font-family: Poppins;
   font-weight: 400;
-  line-height: 50px;
+  line-height: normal;
   font-stretch: normal;
   text-decoration: none;
 }
@@ -783,7 +771,7 @@
 }
 .desktop1button-text103 {
   top: 1188px;
-  left: 603px;
+  left: 613px;
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
@@ -798,7 +786,7 @@
 }
 .desktop1button-text105 {
   top: 1266px;
-  left: 575px;
+  left: 545px;
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
@@ -816,7 +804,7 @@
 }
 .desktop1button-text116 {
   top: 1185px;
-  left: 900px;
+  left: 960px;
   color: rgba(0, 0, 0, 1);
   width: 291px;
   height: auto;
@@ -832,7 +820,7 @@
 }
 .desktop1button-text118 {
   top: 1249px;
-  left: 935px;
+  left: 965px;
   color: rgba(0, 0, 0, 1);
   width: 291px;
   height: auto;
