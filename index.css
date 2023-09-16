@@ -29,7 +29,8 @@
   top: 25px;
   left: 700px;
   color: rgba(236, 116, 74, 1);
-  height: auto;
+  width: auto;
+  height: 40px;
   position: absolute;
   font-size: 20px;
   font-style: Bold;
@@ -38,7 +39,7 @@
   font-weight: 700;
   line-height: normal;
   font-stretch: normal;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   text-decoration: none;
   
 }
