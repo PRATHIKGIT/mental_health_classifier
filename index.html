@@ -2,7 +2,7 @@
 <html lang="english">
   <head>
     <title>www.Seneremindz.com</title>
-    <link rel="icon" href="title-logo.ico" type="image/x-icon">
+    <link rel="icon" href="images\title-logo.ico" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta charset="utf-8" />
     <meta property="twitter:card" content="summary_large_image" />
@@ -28,11 +28,11 @@
         background-color: var(--dl-color-gray-white);
 
       }
-      @media (max-width : 768px){
+      /* @media (max-width : 768px){
         body{
           font-size:14px;
-        }
-      }
+      }  } */
+  
     </style>
     <link
       rel="stylesheet"
@@ -188,25 +188,35 @@
   <body>
     <link rel="stylesheet" href="./style.css" />
     <div>
-      <link href="./index.css" rel="stylesheet" />
-
+      <link href="./main.css" rel="stylesheet" />
+      <div class="mobile-menu">
+        <div class="menu-icon">
+          <div class="bar"></div>
+          <div class="bar"></div>
+          <div class="bar"></div>
+        </div>
+        <div class="menu-content">
+          <a href="#">Home</a>
+          <a href="#">About Us</a>
+          <a href="#">Services</a>
+          <a href="#">Pages</a>
+        </div>
+      </div>
+      
+      
       <div class="desktop1button-container">
         <button class="desktop1button-desktop1button">
-          <span class="desktop1button-text">
-            Home&nbsp; &nbsp; &nbsp;About Us&nbsp; &nbsp; &nbsp;Services&nbsp;
-            &nbsp; &nbsp;Pages
-          </span>
+            <span class="desktop1button-text">
+                Home&nbsp; &nbsp; &nbsp;About Us&nbsp; &nbsp; &nbsp;Services&nbsp;
+                &nbsp; &nbsp;Pages
+              </span>
           <img
-          src = "logo-img.jpg"
+          src = "images\logo-img.jpg"
           alt = "logo-img"
           class = "logo-design-start"
         />
           <span class="desktop1button-text001">Seneremindz</span>
-          <span class="desktop1button-text002">
-            <span>
-              "Supporting Mental Wellness Through Caring Conversations."
-            </span>
-          </span>
+          
         </button>
         <a href="https://www.google.com">
         <button class="desktop1button-primary-button-default-primarybutton">
@@ -218,6 +228,15 @@
           alt="Saly1122"
           class="desktop1button-saly1"
         />
+        <span class="desktop1button-text002">
+            <span>
+              "Supporting Mental Wellness 
+
+                Through Caring
+
+             Conversations."
+            </span>
+          </span>
         <span class="desktop1button-text006">
           <span>
             <span>
@@ -328,12 +347,12 @@
           </span>
         </span>
         <img
-          src="Self-assessment-img.png"
+          src="images\Self-assessment-img.png"
           alt="Self Assessment"
           class="desktop1button-image15"
         />
         <img
-          src="reading_bot.jpg"
+          src="images\reading_bot.jpg"
           alt="reading_img"
           class="desktop1button-image16"
         />
@@ -352,7 +371,7 @@
         <span class="desktop1button-text049"><span>Chat With Us</span></span>
         </button>
         <img
-          src="audio-listening-bot.jpg"
+          src="images\audio-listening-bot.jpg"
           alt="Audio_listening_img"
           class="desktop1button-image20"
         />
@@ -365,12 +384,12 @@
         ><span class="desktop1button-text053"><span>Visit Yoga Page</span></span></button>
         
         <img
-          src= "chatbot_img.jpg"
+          src= "images\chatbot_img.jpg"
           alt="chatbot"
           class="desktop1button-image22"
         />
         <img
-          src="yoga-pose-2.jpg"
+          src="images\yoga-pose-2.jpg"
           alt="yoga_image"
           class="desktop1button-image23"
         />
@@ -452,7 +471,7 @@
         </a>
         <span class="desktop1button-text103"><span>Expertise Team</span></span>
         <span class="desktop1button-text105">
-          <span class="desktop1button-text106">
+            <span>
             <span>Our expert team specializes in stress,</span>
             <br />
             <span></span>
@@ -461,7 +480,11 @@
             <br />
             <span></span>
             <br />
-            <span>here to support your well-being journey</span>
+            <span>here to support your well-being</span>
+            <br />
+            <span></span>
+            <br />
+            <span>journey</span>
           </span>
         </span>
         <span class="desktop1button-text116"><span>Accessibility</span></span>
