@@ -1,876 +1,982 @@
 .logo-design-start{
-  top: 10px;
-  left: 145px;
-  width: 50px;
-  height: 50px;
-  position: absolute;
-  border-radius: 112px;
-
-}
-}.desktop1button-container {
-  width: 100%;
-  display: flex;
-  overflow: auto;
-  min-height: 100vh;
-  align-items: center;
-  flex-direction: column;
-}
-.desktop1button-desktop1button {
-  width: 100%;
-  height: 4740px;
-  display: flex;
-  overflow: hidden;
-  position: relative;
-  align-items: flex-start;
-  flex-shrink: 0;
-  background-color: rgba(255, 255, 255, 1);
-}
-.desktop1button-text {
-  top: 25px;
-  left: 700px;
-  color: rgba(236, 116, 74, 1);
-  width: auto;
-  height: 40px;
-  position: absolute;
-  font-size: 20px;
-  font-style: Bold;
-  text-align: center;
-  font-family: Inter;
-  font-weight: 700;
-  line-height: normal;
-  font-stretch: normal;
-  letter-spacing: 1px;
-  text-decoration: none;
+    top: 10px;
+    left: 145px;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    border-radius: 112px;
   
-}
-.desktop1button-text001 {
-  top: 25px;
-  left: 204px;
-  color: rgb(0, 0, 0);
-  height: auto;
-  position: absolute;
-  font-size: 20px;
-  font-style: Bold;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 700;
-  line-height: normal;
-  font-stretch: ultra-condensed;
-  text-decoration: none;
-}
-.desktop1button-text002 {
-  top: 132px;
-  left: 191px;
-  color: rgba(0, 0, 0, 1);
-  width: 626px;
-  height: auto;
-  position: absolute;
-  font-size: 50px;
-  font-style: Bold;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 700;
-  line-height: normal;
-  font-stretch: ultra-condensed;
-  text-decoration: none;
-}
-.desktop1button-primary-button-default-primarybutton {
-  gap: 8.000000953674316px;
-  top: 17px;
-  left: 1200px;
-  width: 130px;
-  height: 40px;
-  display: flex;
-  padding: 12px 20px;
-  position: absolute;
-  align-items: center;
-  flex-shrink: 0;
-  border-radius: 18px;
-  justify-content: center;
-  background-color: rgba(236, 116, 74, 1);
-}
-.desktop1button-text004 {
-  color: var(--dl-color-default-whitecolor);
-  width: 163px;
-  height: auto;
-  font-size: 18px;
-  font-style: SemiBold;
-  text-align: center;
-  font-family: Poppins;
-  font-weight: 600;
-  line-height: 24.000001907348633px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-saly1 {
-  top: 110px;
-  left: 717px;
-  width: 606px;
-  height: 674px;
-  position: absolute;
-}
-.desktop1button-text006 {
-  top: 404px;
-  left: 188px;
-  color: rgba(45, 105, 79, 1);
-  width: 1209px;
-  height: auto;
-  position: absolute;
-  font-size: 20px;
-  font-style: Regular;
-  text-align: left;
-  font-family: Poppins;
-  font-weight: 400;
-  line-height: 24.000001907348633px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-primary-button-default-primarybutton1 {
-  gap: 8.000000953674316px;
-  top: 550px;
-  left: 191px;
-  width: 168px;
-  height: 39px;
-  display: flex;
-  padding: 12px 20px;
-  position: absolute;
-  align-items: center;
-  flex-shrink: 0;
-  border-radius: 19px;
-  justify-content: center;
-  background-color: rgba(236, 116, 74, 1);
-}
-.desktop1button-text013 {
-  color: var(--dl-color-default-whitecolor);
-  width: 200px;
-  height: auto;
-  font-size: 18px;
-  font-style: SemiBold;
-  text-align: center;
-  font-family: Poppins;
-  font-weight: 600;
-  line-height: 24.000001907348633px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-rectangle25 {
-  top: 997.328369140625px;
-  left: 181px;
-  width: 1100px;
-  height: 405px;
-  position: absolute;
-  border-radius: 70px;
-}
-.desktop1button-text015 {
-  top: 783.9381103515625px;
-  left: 240px;
-  color: rgba(0, 0, 0, 1);
-  width: 1000px;
-  height: auto;
-  position: absolute;
-  font-size: 32px;
-  font-style: Regular;
-  text-align: center;
-  font-family: Inter;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text016 {
-  font-weight: 400;
-}
-.desktop1button-rectangle26 {
-  top: 780px;
-  left: 200px;
-  width: 1065px;
-  height: 3px;
-  position: absolute;
-}
-.desktop1button-rectangle20 {
-  top: 950px;
-  left: 530px;
-  width: 400px;
-  height: 474px;
-  position: absolute;
-  border-radius: 70px;
-}
-.desktop1button-rectangle21 {
-  top: 1002.9852294921875px;
-  left: 950px;
-  width: 342px;
-  height: 394px;
-  position: absolute;
-  border-radius: 70px;
-}
-.desktop1button-image10 {
-  top: 1033px;
-  left: 282px;
-  width: 131px;
-  height: 130px;
-  position: absolute;
-}
-.desktop1button-image11 {
-  top: 986.9381103515625px;
-  left: 632px;
-  width: 201px;
-  height: 185px;
-  position: absolute;
-}
-.desktop1button-image12 {
-  top: 1033px;
-  left: 1038px;
-  width: 131px;
-  height: 130px;
-  position: absolute;
-}
-.desktop1button-image13 {
-  top: 1544px;
-  left: 199px;
-  width: 624px;
-  height: 659px;
-  position: absolute;
-  border-radius: 112px;
-}
-.desktop1button-text021 {
-  top: 1600px;
-  left: 740px;
-  color: rgba(46, 106, 80, 1);
-  width: 541px;
-  height: auto;
-  position: absolute;
-  font-size: 20px;
-  font-style: Bold;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 700;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text022 {
-  color: rgba(46, 106, 80, 1);
-}
-.desktop1button-text026 {
-  font-weight: 700;
-}
-.desktop1button-primary-button-default-primarybutton2 {
-  gap: 8.000000953674316px;
-  top: 1995px;
-  left: 818px;
-  width: 165px;
-  height: 40px;
-  display: flex;
-  padding: 12px 20px;
-  position: absolute;
-  align-items: center;
-  flex-shrink: 0;
-  border-radius: 18px;
-  justify-content: center;
-  background-color: rgba(236, 116, 74, 1);
-}
-.desktop1button-text036 {
-  color: var(--dl-color-default-whitecolor);
-  width: 200px;
-  height: auto;
-  font-size: 18px;
-  font-style: SemiBold;
-  text-align: center;
-  font-family: Poppins;
-  font-weight: 600;
-  line-height: 24.000001907348633px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-rectangle22 {
-  top: 2250px;
-  left: 200px;
-  width: 1065px;
-  height: 3px;
-  position: absolute;
-}
-.desktop1button-text038 {
-  top: 2283px;
-  left: 345px;
-  color: rgba(0, 0, 0, 1);
-  width: 732px;
-  height: auto;
-  position: absolute;
-  font-size: 24px;
-  font-style: SemiBold;
-  text-align: center;
-  font-family: Poppins;
-  font-weight: 600;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-image15 {
-  top: 2435px;
-  left: 830px;
-  width: 304px;
-  height: 304px;
-  position: absolute;
-}
-.desktop1button-image16 {
-  top: 2435px;
-  left: 275px;
-  width: 304px;
-  height: 304px;
-  position: absolute;
-  border-radius: 10px;
-}
-.desktop1button-primary-button-default-primarybutton3 {
-  gap: 8.000000953674316px;
-  top: 2979px;
-  left: 335px;
-  width: 200px;
-  height: 40px;
-  display: flex;
-  padding: 12px 20px;
-  position: absolute;
-  align-items: center;
-  flex-shrink: 0;
-  border-radius: 18px;
-  justify-content: center;
-  background-color: rgba(236, 116, 74, 1);
-}
-.desktop1button-primary-button-default-primarybutton4 {
-  gap: 8.000000953674316px;
-  top: 2979px;
-  left: 845px;
-  width: 280px;
-  height: 40px;
-  display: flex;
-  padding: 12px 20px;
-  position: absolute;
-  align-items: center;
-  flex-shrink: 0;
-  border-radius: 18px;
-  justify-content: center;
-  background-color: rgba(236, 116, 74, 1);
-}
-.desktop1button-text045 {
-  color: var(--dl-color-default-whitecolor);
-  width: 200px;
-  height: auto;
-  font-size: 18px;
-  font-style: SemiBold;
-  text-align: center;
-  font-family: Poppins;
-  font-weight: 600;
-  line-height: 24.000001907348633px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text047 {
-  color: var(--dl-color-default-whitecolor);
-  width: 200px;
-  height: auto;
-  font-size: 18px;
-  font-style: SemiBold;
-  text-align: center;
-  font-family: Poppins;
-  font-weight: 600;
-  line-height: 24.000001907348633px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-primary-button-default-primarybutton5 {
-  gap: 8.000000953674316px;
-  top: 3575px;
-  left: 640px;
-  width: 165px;
-  height: 40px;
-  display: flex;
-  padding: 12px 20px;
-  position: absolute;
-  align-items: center;
-  flex-shrink: 0;
-  border-radius: 18px;
-  justify-content: center;
-  background-color: rgba(236, 116, 74, 1);
-}
-.desktop1button-text049 {
-  color: var(--dl-color-default-whitecolor);
-  width: 200px;
-  height: auto;
-  font-size: 18px;
-  font-style: SemiBold;
-  text-align: center;
-  font-family: Poppins;
-  font-weight: 600;
-  line-height: 24.000001907348633px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-image20 {
-  top: 3737px;
-  left: 300px;
-  width: 304px;
-  height: 304px;
-  position: absolute;
-  border-radius: 10px;
-}
-.desktop1button-primary-button-default-primarybutton6 {
-  gap: 8.000000953674316px;
-  top: 4259px;
-  left: 370px;
-  width: 165px;
-  height: 40px;
-  display: flex;
-  padding: 12px 20px;
-  position: absolute;
-  align-items: center;
-  flex-shrink: 0;
-  border-radius: 18px;
-  justify-content: center;
-  background-color: rgba(236, 116, 74, 1);
-}
-.desktop1button-text051 {
-  color: var(--dl-color-default-whitecolor);
-  width: 200px;
-  height: auto;
-  font-size: 18px;
-  font-style: SemiBold;
-  text-align: center;
-  font-family: Poppins;
-  font-weight: 600;
-  line-height: 24.000001907348633px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-primary-button-default-primarybutton7 {
-  gap: 8.000000953674316px;
-  top: 4259px;
-  left: 890.5px;
-  width: 200px;
-  height: 40px;
-  display: flex;
-  padding: 12px 20px;
-  position: absolute;
-  align-items: center;
-  flex-shrink: 0;
-  border-radius: 18px;
-  justify-content: center;
-  background-color: rgba(236, 116, 74, 1);
-}
-.desktop1button-text053 {
-  color: var(--dl-color-default-whitecolor);
-  width: 200px;
-  height: auto;
-  font-size: 18px;
-  font-style: SemiBold;
-  text-align: center;
-  font-family: Poppins;
-  font-weight: 600;
-  line-height: 24.000001907348633px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-image22 {
-  top: 3075px;
-  left: 520px;
-  width: 420px;
-  height: 316px;
-  position: absolute;
-  border-radius: 10px;
-}
-.desktop1button-image23 {
-  top: 3737px;
-  left: 850px;
-  width: 304px;
-  height: 304px;
-  position: absolute;
-  border-radius: 10px;
-}
-.desktop1button-rectangle23 {
-  top: 4369px;
-  left: 200px;
-  width: 1065px;
-  height: 5px;
-  position: absolute;
-}
-.desktop1button-rectangle24 {
-  top: 4470px;
-  left: 0px;
-  width: 1920px;
-  height: 274px;
-  position: absolute;
-}
-.desktop1button-text055 {
-  top: 4507px;
-  left: 199px;
-  color: rgba(255, 255, 255, 1);
-  width: 1056px;
-  height: auto;
-  position: absolute;
-  font-size: 22px;
-  font-style: Regular;
-  text-align: left;
-  font-family: Roboto;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text057 {
-  top: 4579px;
-  left: 410px;
-  color: rgba(255, 255, 255, 1);
-  width: 82px;
-  height: auto;
-  position: absolute;
-  font-size: 16px;
-  font-style: Regular;
-  text-align: left;
-  font-family: Roboto;
-  font-weight: 400;
-  line-height: 31px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text066 {
-  top: 4579px;
-  left: 638px;
-  color: rgba(255, 255, 255, 1);
-  width: 74px;
-  height: auto;
-  position: absolute;
-  font-size: 16px;
-  font-style: Regular;
-  text-align: left;
-  font-family: Roboto;
-  font-weight: 400;
-  line-height: 31px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text075 {
-  top: 4507px;
-  left: 410px;
-  color: rgba(255, 255, 255, 1);
-  width: 113px;
-  height: auto;
-  position: absolute;
-  font-size: 16px;
-  font-style: Regular;
-  text-align: left;
-  font-family: Roboto;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text077 {
-  top: 4507px;
-  left: 638px;
-  color: rgba(255, 255, 255, 1);
-  width: 165px;
-  height: auto;
-  position: absolute;
-  font-size: 16px;
-  font-style: Regular;
-  text-align: left;
-  font-family: Roboto;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text079 {
-  top: 4639px;
-  left: 908px;
-  color: rgba(255, 255, 255, 1);
-  width: 113px;
-  height: auto;
-  position: absolute;
-  font-size: 16px;
-  font-style: Regular;
-  text-align: left;
-  font-family: Roboto;
-  font-weight: 400;
-  line-height: 31px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text081 {
-  top: 4507px;
-  left: 903px;
-  color: rgba(255, 255, 255, 1);
-  width: 165px;
-  height: auto;
-  position: absolute;
-  font-size: 16px;
-  font-style: Regular;
-  text-align: left;
-  font-family: Roboto;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text083 {
-  top: 4052px;
-  left: 729px;
-  color: rgba(0, 0, 0, 1);
-  width: 524px;
-  height: auto;
-  position: absolute;
-  font-size: 50px;
-  font-style: Bold;
-  text-align: center;
-  font-family: Poppins;
-  font-weight: 700;
-  line-height: 70px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text085 {
-  top: 4136px;
-  left: 729px;
-  color: rgba(0, 0, 0, 1);
-  width: 524px;
-  height: auto;
-  position: absolute;
-  font-size: 20px;
-  font-style: Regular;
-  text-align: center;
-  font-family: Poppins;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text087 {
-  top: 4050px;
-  left: 190px;
-  color: rgba(0, 0, 0, 1);
-  width: 522px;
-  height: auto;
-  position: absolute;
-  font-size: 50px;
-  font-style: Bold;
-  text-align: center;
-  font-family: Poppins;
-  font-weight: 700;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text089 {
-  top: 4136px;
-  left: 185px;
-  color: rgba(0, 0, 0, 1);
-  width: 522px;
-  height: auto;
-  position: absolute;
-  font-size: 20px;
-  font-style: Regular;
-  text-align: center;
-  font-family: Poppins;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text091 {
-  top: 3393px;
-  left: 467px;
-  color: rgba(0, 0, 0, 1);
-  width: 522px;
-  height: auto;
-  position: absolute;
-  font-size: 50px;
-  font-style: Bold;
-  text-align: center;
-  font-family: Poppins;
-  font-weight: 700;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text093 {
-  top: 3475px;
-  left: 473px;
-  color: rgba(0, 0, 0, 1);
-  width: 522px;
-  height: auto;
-  position: absolute;
-  font-size: 20px;
-  font-style: Regular;
-  text-align: center;
-  font-family: Poppins;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text095 {
-  top: 2755px;
-  left: 185px;
-  color: rgba(0, 0, 0, 1);
-  width: 522px;
-  height: auto;
-  position: absolute;
-  font-size: 50px;
-  font-style: Bold;
-  text-align: center;
-  font-family: Poppins;
-  font-weight: 700;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text097 {
-  top: 2848px;
-  left: 191px;
-  color: rgba(0, 0, 0, 1);
-  width: 522px;
-  height: auto;
-  position: absolute;
-  font-size: 20px;
-  font-style: Regular;
-  text-align: center;
-  font-family: Poppins;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text099 {
-  top: 2755px;
-  left: 709px;
-  color: rgba(0, 0, 0, 1);
-  width: 533px;
-  height: auto;
-  position: absolute;
-  font-size: 50px;
-  font-style: Bold;
-  text-align: center;
-  font-family: Poppins;
-  font-weight: 700;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text101 {
-  top: 2848px;
-  left: 734px;
-  color: rgba(0, 0, 0, 1);
-  width: 533px;
-  height: auto;
-  position: absolute;
-  font-size: 20px;
-  font-style: Regular;
-  text-align: center;
-  font-family: Poppins;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text103 {
-  top: 1188px;
-  left: 613px;
-  color: rgba(255, 255, 255, 1);
-  height: auto;
-  position: absolute;
-  font-size: 30px;
-  font-style: Bold;
-  text-align: center;
-  font-family: Inter;
-  font-weight: 700;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text105 {
-  top: 1266px;
-  left: 545px;
-  color: rgba(255, 255, 255, 1);
-  height: auto;
-  position: absolute;
-  font-size: 20px;
-  font-style: Regular;
-  text-align: center;
-  font-family: Inter;
-  font-weight: 400;
-  line-height: 20px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text106 {
-  font-weight: 400;
-}
-.desktop1button-text116 {
-  top: 1185px;
-  left: 960px;
-  color: rgba(0, 0, 0, 1);
-  width: 291px;
-  height: auto;
-  position: absolute;
-  font-size: 30px;
-  font-style: Bold;
-  text-align: center;
-  font-family: Inter;
-  font-weight: 700;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text118 {
-  top: 1249px;
-  left: 965px;
-  color: rgba(0, 0, 0, 1);
-  width: 291px;
-  height: auto;
-  position: absolute;
-  font-size: 20px;
-  font-style: Regular;
-  text-align: center;
-  font-family: Inter;
-  font-weight: 400;
-  line-height: 20px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text129 {
-  top: 1195px;
-  left: 206px;
-  color: rgba(0, 0, 0, 1);
-  width: 291px;
-  height: auto;
-  position: absolute;
-  font-size: 30px;
-  font-style: Bold;
-  text-align: center;
-  font-family: Inter;
-  font-weight: 700;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-text131 {
-  top: 1266px;
-  left: 206px;
-  color: rgba(0, 0, 0, 1);
-  width: 291px;
-  height: auto;
-  position: absolute;
-  font-size: 20px;
-  font-style: Regular;
-  text-align: center;
-  font-family: Inter;
-  font-weight: 400;
-  line-height: 20px;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.desktop1button-icon {
-  top: 27px;
-  left: 1215px;
-  width: 20px;
-  height: 20px;
-  position: absolute;
-}
+  }
+  .desktop1button-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .desktop1button-desktop1button {
+    width: 100%;
+    height: 4740px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .mobile-menu {
+    position: relative;
+    top: 14px;
+    left: 1100px;
+    display: none;
+    z-index: 1000;
+  }
+  
+  .menu-icon {
+    cursor: pointer;
+  }
+  
+  .bar {
+    width:40px;
+    height: 5px;
+    background-color: rgba(236, 116, 74, 1);
+    margin: 8px 0;
+  }
+  
+  .menu-content {
+    margin-bottom: 25px;
+    display: none;
+    flex-direction: column;
+    color: rgba(236, 116, 74, 1);
+    background-color: rgba(255, 255, 255, 1);
+    padding: 10px;
+    border-radius: 5px;
+    transition: width 0.3s ease;
+    width: 360px;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    letter-spacing: 1px;
+    text-decoration: none; 
+  }
+
+  .mobile-menu:hover .menu-content {
+    display: inline-flex;
+  }
+  
+  .mobile-menu:hover .menu-icon {
+    display: inline;
+  }
+  
+  @media (max-width: 767px) {
+    .mobile-menu {
+      display: block;
+    }
+  }
+  
+  .desktop1button-text {
+    top: 25px;
+    left: 700px;
+    color: rgba(236, 116, 74, 1);
+    width: auto;
+    height: 40px;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    letter-spacing: 1px;
+    text-decoration: none;
+    
+  }
+  .desktop1button-text001 {
+    top: 25px;
+    left: 204px;
+    color: rgb(0, 0, 0);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: ultra-condensed;
+    text-decoration: none;
+  }
+  .desktop1button-text002 {
+    top: 132px;
+    left: 191px;
+    color: rgba(0, 0, 0, 1);
+    width: 626px;
+    height: auto;
+    position: absolute;
+    font-size: 50px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    background-size: 100%;
+  }
+  
+  .desktop1button-primary-button-default-primarybutton {
+    gap: 8.000000953674316px;
+    top: 17px;
+    left: 1200px;
+    width: 130px;
+    height: 40px;
+    display: flex;
+    padding: 12px 20px;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 18px;
+    justify-content: center;
+    background-color: rgba(236, 116, 74, 1);
+  }
+  .desktop1button-primary-button-default-primarybutton:hover{
+    background-color: black;
+  }
+  .desktop1button-text004 {
+    color: var(--dl-color-default-whitecolor);
+    width: 163px;
+    height: auto;
+    font-size: 18px;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 40px;
+    font-stretch: ultra-expanded;
+    text-decoration: none;
+  }
+  .desktop1button-text004:hover{
+    color: rgba(236, 116, 74, 1);
+  }
+  .desktop1button-saly1 {
+    top: 110px;
+    left: 717px;
+    width: 606px;
+    height: 674px;
+    position: absolute;
+  }
+  .desktop1button-text006 {
+    top: 404px;
+    left: 188px;
+    color: rgba(45, 105, 79, 1);
+    width: 1209px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: 24.000001907348633px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-primary-button-default-primarybutton1 {
+    gap: 8.000000953674316px;
+    top: 550px;
+    left: 191px;
+    width: 168px;
+    height: 39px;
+    display: flex;
+    padding: 12px 20px;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 19px;
+    justify-content: center;
+    background-color: rgba(236, 116, 74, 1);
+  }
+  .desktop1button-primary-button-default-primarybutton1:hover{
+    background-color: black;
+  }
+  .desktop1button-text013:hover{
+    color: rgba(236, 116, 74, 1);
+  }
+  .desktop1button-primary-button-default-primarybutton2:hover{
+    background-color: black;
+  }
+  .desktop1button-text047:hover{
+    color: rgba(236, 116, 74, 1);
+  }
+  .desktop1button-primary-button-default-primarybutton3:hover{
+    background-color: black;
+  }
+  .desktop1button-text045:hover{
+    color: rgba(236, 116, 74, 1);
+  }
+  .desktop1button-primary-button-default-primarybutton4:hover{
+    background-color: black;
+  }
+  .desktop1button-text049:hover{
+    color: rgba(236, 116, 74, 1);
+  }
+  .desktop1button-primary-button-default-primarybutton5:hover{
+    background-color: black;
+  }
+  .desktop1button-text051:hover{
+    color: rgba(236, 116, 74, 1);
+  }
+  .desktop1button-primary-button-default-primarybutton6:hover{
+    background-color: black;
+  }
+  .desktop1button-text053:hover{
+    color: rgba(236, 116, 74, 1);
+  }
+  .desktop1button-primary-button-default-primarybutton7:hover{
+    background-color: black;
+  }
+  .desktop1button-text036:hover{
+    color: rgba(236, 116, 74, 1);
+  }
+  .desktop1button-text013 {
+    color: var(--dl-color-default-whitecolor);
+    width: 200px;
+    height: auto;
+    font-size: 18px;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 24.000001907348633px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-rectangle25 {
+    top: 997.328369140625px;
+    left: 181px;
+    width: 1100px;
+    height: 405px;
+    position: absolute;
+    border-radius: 70px;
+  }
+  .desktop1button-text015 {
+    top: 783.9381103515625px;
+    left: 240px;
+    color: rgba(0, 0, 0, 1);
+    width: 1000px;
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text016 {
+    font-weight: 400;
+  }
+  .desktop1button-rectangle26 {
+    top: 780px;
+    left: 200px;
+    width: 1065px;
+    height: 3px;
+    position: absolute;
+  }
+  .desktop1button-rectangle20 {
+    top: 950px;
+    left: 530px;
+    width: 400px;
+    height: 474px;
+    position: absolute;
+    border-radius: 70px;
+  }
+  .desktop1button-rectangle21 {
+    top: 1002.9852294921875px;
+    left: 950px;
+    width: 342px;
+    height: 394px;
+    position: absolute;
+    border-radius: 70px;
+  }
+  .desktop1button-image10 {
+    top: 1033px;
+    left: 282px;
+    width: 131px;
+    height: 130px;
+    position: absolute;
+  }
+  .desktop1button-image11 {
+    top: 986.9381103515625px;
+    left: 632px;
+    width: 201px;
+    height: 185px;
+    position: absolute;
+  }
+  .desktop1button-image12 {
+    top: 1033px;
+    left: 1038px;
+    width: 131px;
+    height: 130px;
+    position: absolute;
+  }
+  .desktop1button-image13 {
+    top: 1544px;
+    left: 199px;
+    width: 624px;
+    height: 659px;
+    position: absolute;
+    border-radius: 112px;
+  }
+  .desktop1button-text021 {
+    top: 1600px;
+    left: 740px;
+    color: rgba(46, 106, 80, 1);
+    width: 541px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text022 {
+    color: rgba(46, 106, 80, 1);
+  }
+  .desktop1button-text026 {
+    font-weight: 700;
+  }
+  .desktop1button-primary-button-default-primarybutton2 {
+    gap: 8.000000953674316px;
+    top: 1995px;
+    left: 818px;
+    width: 165px;
+    height: 40px;
+    display: flex;
+    padding: 12px 20px;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 18px;
+    justify-content: center;
+    background-color: rgba(236, 116, 74, 1);
+  }
+  .desktop1button-text036 {
+    color: var(--dl-color-default-whitecolor);
+    width: 200px;
+    height: auto;
+    font-size: 18px;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 24.000001907348633px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-rectangle22 {
+    top: 2250px;
+    left: 200px;
+    width: 1065px;
+    height: 3px;
+    position: absolute;
+  }
+  .desktop1button-text038 {
+    top: 2283px;
+    left: 345px;
+    color: rgba(0, 0, 0, 1);
+    width: 732px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-image15 {
+    top: 2435px;
+    left: 830px;
+    width: 304px;
+    height: 304px;
+    position: absolute;
+  }
+  .desktop1button-image16 {
+    top: 2435px;
+    left: 275px;
+    width: 304px;
+    height: 304px;
+    position: absolute;
+    border-radius: 10px;
+  }
+  .desktop1button-primary-button-default-primarybutton3 {
+    gap: 8.000000953674316px;
+    top: 2979px;
+    left: 335px;
+    width: 200px;
+    height: 40px;
+    display: flex;
+    padding: 12px 20px;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 18px;
+    justify-content: center;
+    background-color: rgba(236, 116, 74, 1);
+  }
+  .desktop1button-primary-button-default-primarybutton4 {
+    gap: 8.000000953674316px;
+    top: 2979px;
+    left: 845px;
+    width: 280px;
+    height: 40px;
+    display: flex;
+    padding: 12px 20px;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 18px;
+    justify-content: center;
+    background-color: rgba(236, 116, 74, 1);
+  }
+  .desktop1button-text045 {
+    color: var(--dl-color-default-whitecolor);
+    width: 200px;
+    height: auto;
+    font-size: 18px;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 24.000001907348633px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text047 {
+    color: var(--dl-color-default-whitecolor);
+    width: 200px;
+    height: auto;
+    font-size: 18px;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 24.000001907348633px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-primary-button-default-primarybutton5 {
+    gap: 8.000000953674316px;
+    top: 3625px;
+    left: 640px;
+    width: 165px;
+    height: 40px;
+    display: flex;
+    padding: 12px 20px;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 18px;
+    justify-content: center;
+    background-color: rgba(236, 116, 74, 1);
+  }
+  .desktop1button-text049 {
+    color: var(--dl-color-default-whitecolor);
+    width: 200px;
+    height: auto;
+    font-size: 18px;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 24.000001907348633px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-image20 {
+    top: 3737px;
+    left: 300px;
+    width: 304px;
+    height: 304px;
+    position: absolute;
+    border-radius: 10px;
+  }
+  .desktop1button-primary-button-default-primarybutton6 {
+    gap: 8.000000953674316px;
+    top: 4259px;
+    left: 370px;
+    width: 165px;
+    height: 40px;
+    display: flex;
+    padding: 12px 20px;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 18px;
+    justify-content: center;
+    background-color: rgba(236, 116, 74, 1);
+  }
+  .desktop1button-text051 {
+    color: var(--dl-color-default-whitecolor);
+    width: 200px;
+    height: auto;
+    font-size: 18px;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 24.000001907348633px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-primary-button-default-primarybutton7 {
+    gap: 8.000000953674316px;
+    top: 4259px;
+    left: 890.5px;
+    width: 200px;
+    height: 40px;
+    display: flex;
+    padding: 12px 20px;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 18px;
+    justify-content: center;
+    background-color: rgba(236, 116, 74, 1);
+  }
+  .desktop1button-text053 {
+    color: var(--dl-color-default-whitecolor);
+    width: 200px;
+    height: auto;
+    font-size: 18px;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 24.000001907348633px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-image22 {
+    top: 3110px;
+    left: 520px;
+    width: 420px;
+    height: 316px;
+    position: absolute;
+    border-radius: 10px;
+  }
+  .desktop1button-image23 {
+    top: 3737px;
+    left: 850px;
+    width: 304px;
+    height: 304px;
+    position: absolute;
+    border-radius: 10px;
+  }
+  .desktop1button-rectangle23 {
+    top: 4369px;
+    left: 200px;
+    width: 1065px;
+    height: 5px;
+    position: absolute;
+  }
+  .desktop1button-rectangle24 {
+    top: 4470px;
+    left: 0px;
+    width: 1685px;
+    height: 274px;
+    position: absolute;
+  }
+  .desktop1button-text055 {
+    top: 4507px;
+    left: 199px;
+    color: rgba(255, 255, 255, 1);
+    width: 1056px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text057 {
+    top: 4579px;
+    left: 410px;
+    color: rgba(255, 255, 255, 1);
+    width: 82px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: 31px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text066 {
+    top: 4579px;
+    left: 638px;
+    color: rgba(255, 255, 255, 1);
+    width: 74px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: 31px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text075 {
+    top: 4507px;
+    left: 410px;
+    color: rgba(255, 255, 255, 1);
+    width: 113px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text077 {
+    top: 4507px;
+    left: 638px;
+    color: rgba(255, 255, 255, 1);
+    width: 165px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text079 {
+    top: 4639px;
+    left: 908px;
+    color: rgba(255, 255, 255, 1);
+    width: 113px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: 31px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text081 {
+    top: 4507px;
+    left: 903px;
+    color: rgba(255, 255, 255, 1);
+    width: 165px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text083 {
+    top: 4052px;
+    left: 729px;
+    color: rgba(0, 0, 0, 1);
+    width: 524px;
+    height: auto;
+    position: absolute;
+    font-size: 50px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: 70px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text085 {
+    top: 4136px;
+    left: 729px;
+    color: rgba(0, 0, 0, 1);
+    width: 524px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text087 {
+    top: 4050px;
+    left: 190px;
+    color: rgba(0, 0, 0, 1);
+    width: 522px;
+    height: auto;
+    position: absolute;
+    font-size: 50px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text089 {
+    top: 4136px;
+    left: 185px;
+    color: rgba(0, 0, 0, 1);
+    width: 522px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text091 {
+    top: 3450px;
+    left: 467px;
+    color: rgba(0, 0, 0, 1);
+    width: 522px;
+    height: auto;
+    position: absolute;
+    font-size: 50px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text093 {
+    top: 3530px;
+    left: 473px;
+    color: rgba(0, 0, 0, 1);
+    width: 522px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text095 {
+    top: 2755px;
+    left: 185px;
+    color: rgba(0, 0, 0, 1);
+    width: 522px;
+    height: auto;
+    position: absolute;
+    font-size: 50px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text097 {
+    top: 2848px;
+    left: 191px;
+    color: rgba(0, 0, 0, 1);
+    width: 522px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text099 {
+    top: 2755px;
+    left: 709px;
+    color: rgba(0, 0, 0, 1);
+    width: 533px;
+    height: auto;
+    position: absolute;
+    font-size: 50px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text101 {
+    top: 2848px;
+    left: 734px;
+    color: rgba(0, 0, 0, 1);
+    width: 533px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text103 {
+    top: 1188px;
+    left: 580px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    width: 291px;
+  }
+  .desktop1button-text105 {
+    top: 1250px;
+    left: 550px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    text-decoration: none;
+    font-weight: 400;
+    width: 360px;
+  }
+
+  .desktop1button-text116 {
+    top: 1185px;
+    left: 960px;
+    color: rgba(0, 0, 0, 1);
+    width: 291px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text118 {
+    top: 1240px;
+    left: 965px;
+    color: rgba(0, 0, 0, 1);
+    width: 291px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text129 {
+    top: 1185px;
+    left: 206px;
+    color: rgba(0, 0, 0, 1);
+    width: 291px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-text131 {
+    top: 1240px;
+    left: 206px;
+    color: rgba(0, 0, 0, 1);
+    width: 291px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop1button-icon {
+    top: 27px;
+    left: 1215px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+  }
+  
